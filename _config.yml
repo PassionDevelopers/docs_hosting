@@ -1,8 +1,0 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - privacy-policy-dasi-stand.md
-  - 약관.md
